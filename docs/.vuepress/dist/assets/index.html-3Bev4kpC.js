@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"YangXplorer.github.io","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701868809000,"contributors":[{"name":"yangxianglong","email":"yangxianglong@bridge.vc","commits":1}]},"filePathRelative":"README.md"}');export{a as data};

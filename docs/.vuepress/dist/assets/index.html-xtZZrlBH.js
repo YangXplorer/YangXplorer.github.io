@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as r}from"./app-7UGseVRt.js";const n={},c=e("h1",{id:"yangxplorer-github-io",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#yangxplorer-github-io","aria-hidden":"true"},"#"),r(" YangXplorer.github.io")],-1),i=[c];function s(_,d){return a(),o("div",null,i)}const l=t(n,[["render",s],["__file","index.html.vue"]]);export{l as default};
